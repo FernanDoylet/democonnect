@@ -19,7 +19,7 @@
                 </Annotation>
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        <PropertyPath>AgencyId</PropertyPath>
+                        <PropertyPath>TravelId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
